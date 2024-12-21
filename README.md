@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @lelixn
+- 👋 It's me Lelien Panda
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning basics of java
-- 💞️ I’m looking to collaborate on twitter
-- 📫 How to reach me : through my email or cold dms
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: idgas
+- 🌱 I’m currently learning  Java + DSA 
+- I’m looking to collaborate on twitter & linkedIn
+- 📫 How to reach me : through my email
 
 <!---
 lelixn/lelixn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
