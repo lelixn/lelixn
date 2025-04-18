@@ -43,11 +43,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lelienpanda&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lelixn&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lelienpanda&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lelixn&theme=radical&hide_border=true" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelienpanda&layout=compact&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelixn&layout=compact&theme=dracula&hide_border=true" />
 </p>
 
 
