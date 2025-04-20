@@ -1,69 +1,49 @@
-<h1 align="center">
-  Yo 👋 I'm Lelien Panda
-</h1>
+<h1 align="center">Hi 👾, I'm Lelien Panda</h1>
+<h3 align="center">Frontend Developer | React & JavaScript Enthusiast | UI/UX Focused</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+Full+Stack+Developer+in+the+Making;🔥+Frontend+Dev+%7C+Backend+Builder;🧠+Learning+Java%2C+DSA%2C+Cloud%2C+AI;💪+Home+Workout+Warrior+%7C+8000+Steps+Daily;😎+UI%2FUX+%2B+Dev+vibes+only" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lelixn&label=Profile%20views&color=0e75b6&style=flat" alt="lelixn" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lelixn" alt="lelixn" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/lelinofc_" target="blank"><img src="https://img.shields.io/twitter/follow/lelinofc_?logo=twitter&style=for-the-badge" alt="lelinofc_" /></a> </p>
+
+- 🔭 I’m currently working on **UBER CLONE**
+
+- 👨‍💻 All of my projects are available at [https://about-me-lelixns-projects.vercel.app/](https://about-me-lelixns-projects.vercel.app/)
+
+- 💬 Ask me about **React, Gsap, Three.js**
+
+- 📫 How to reach me **lelinpanda35@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/lelixn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/lelixn" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/lelixn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/lelixn" height="30" width="40" /></a>
+<a href="https://twitter.com/lelinofc_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lelinofc_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lelien-panda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lelien-panda/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/lelixn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/lelixn" height="30" width="40" /></a>
+<a href="https://dribbble.com/https://dribbble.com/lelixn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/lelixn" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/lelinff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/lelinff" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@lelixn-ui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@lelixn-ui" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/lelixn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/lelixn" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/lelinpanda35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/lelinpanda35" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/lelien/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/lelien/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/lelinpaiqz2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/lelinpaiqz2/" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/lelinpandat"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/lelinpandat" /></a></p><br><br>
 
-## 🚀 Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lelixn&show_icons=true&locale=en&layout=compact" alt="lelixn" /></p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,mysql,figma,git,github,vscode,aws&perline=8" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lelixn&show_icons=true&locale=en" alt="lelixn" /></p>
 
----
-
-## 🔥 Current Fire 🔥
-
-- 🔁 Practicing DSA + Java Hardcore
-- 🧠 Learning **Cloud**, **DevOps**, and **AI tools**
-- 🎯 Building side projects: Portfolio, Sneaker Platform, Angry Birds UI
-- 💻 Working on clean UIs, minimal animations, and cool interactivity
-- 🏋️‍♂️ Shredding with home workouts + 8,000 steps/day
-
----
-
-## 🛠️ Dev Setup
-
-| Tool           | My Setup                            |
-|----------------|--------------------------------------|
-| Code Editor    | VS Code (Dark Theme 🌒)              |
-| Terminal       | Git Bash / Windows Terminal 💻       |
-| Design         | Figma + Colorhunt 🎨                 |
-| Browser        | Brave / Chrome 🦁                    |
-| OS             | Windows 11 🪟                        |
-| AI Assistant   | ChatGPT 🤖                           |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lelixn&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lelixn&theme=radical&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelixn&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
-
----
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/lelienpanda"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/your-insta"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer"/>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lelixn&" alt="lelixn" /></p>
