@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👾! My name is Lelien Panda <br>I'm a Full stack Developer🪛</h2>
+<h2 align="center">Hi! I'm Lelien Panda <br> Full stack Developer👾</h2>
 
 ###
 
@@ -72,8 +72,18 @@
 
 ###
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lelixn&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lelixn&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=lelixn&theme=nightowl&hide_border=false)<br/>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lelixn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+
+
 
 
 
