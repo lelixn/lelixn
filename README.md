@@ -1,7 +1,18 @@
 <br clear="both">
 
-<h1 align="center">Hi! I'm Lelien Panda <br> Full stack Developer👾</h1>
+### 👾 Hey there, I'm Lelien Panda! 👋
 
+💻 A passionate **Software Developer** from 🇮🇳 India  
+🎯 I do crafting **modern web apps** and exploring tech stacks 🚀  
+🛠️ Tech Stack: `HTML` `CSS` `JavaScript` `React.js⚛` `Java` `GO`  
+🧰 Tools & Libraries: `TailwindCSS` 🌬️ `Bootstrap` 🎀 `Three.js` 🌐 `Framer Motion` 🎞️ `GSAP` 🌀  
+🖌️ Design & Dev Tools: `Figma` 🎨 `Adobe XD` 🧑‍🎨 `Git` 🔧 `GitHub` 🐙 `VS Code` 📟 `NeoVim`  
+🌱 Currently learning: **Backend & Full Stack **  
+🤝 Always up for collabs, cool projects, and creative ideas!
+
+<!--  
+<h1 align="center">Hi! I'm Lelien Panda <br> Full stack Developer👾</h1>
+-->
 ###
 
 <img align="right" height="140" src="https://i.pinimg.com/originals/ab/7e/9e/ab7e9e9237ab0f62324e7461c74db788.gif"  />
