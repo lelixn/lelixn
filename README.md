@@ -62,7 +62,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="30" alt="webflow logo"  />
 </div>
 
-###
+
+### 📚 Certifications
+
+![HackerRank SWE Intern](https://img.shields.io/badge/HackerRank-Software%20Engineer%20Intern-green?style=for-the-badge&logo=hackerrank)
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Certified-green?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-API%20Certified-orange?style=for-the-badge&logo=postman)
 
 
 
