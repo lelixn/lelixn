@@ -11,11 +11,7 @@
 🤝 Always up for collabs, cool projects, and creative ideas!
 
 
-###
 
-<img align="right" height="70" src="https://i.pinimg.com/originals/ab/7e/9e/ab7e9e9237ab0f62324e7461c74db788.gif"  />
-
-###
 
 
 
