@@ -7,7 +7,7 @@
 🛠️ Tech Stack: `HTML` `CSS` `JavaScript` `React.js⚛` `Java` `GO`  
 🧰 Tools & Libraries: `TailwindCSS` 🌬️ `Bootstrap` 🎀 `Three.js` 🌐 `Framer Motion` 🎞️ `GSAP` 🌀  
 🖌️ Design & Dev Tools: `Figma` 🎨 `Adobe XD` 🧑‍🎨 `Git` 🔧 `GitHub` 🐙 `VS Code` 📟 `NeoVim`  
-🌱 Currently learning: **Backend & Full Stack **  
+🌱 Currently learning: Backend & Full Stack   
 🤝 Always up for collabs, cool projects, and creative ideas!
 
 
