@@ -2,7 +2,7 @@
 
 ### 👾  It's Lelien  
 
-💻 A passionate **Software Developer** from 🇮🇳 India  
+💻 A passionate **Software Developer** from India  
 🎯 I do crafting **modern web apps** and exploring tech stacks 🚀  
 🛠️ Tech Stack: `HTML` `CSS` `JavaScript` `React.js⚛` `Java` `GO`  
 🧰 Tools & Libraries: `TailwindCSS` 🌬️ `Bootstrap` 🎀 `Three.js` 🌐 `Framer Motion` 🎞️ `GSAP` 🌀  
