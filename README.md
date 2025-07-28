@@ -1,6 +1,6 @@
 <br clear="both">
 
-### 👾 Hey there, I'm Lelien Panda! 
+### 👾  It's Lelien Panda! 
 
 💻 A passionate **Software Developer** from 🇮🇳 India  
 🎯 I do crafting **modern web apps** and exploring tech stacks 🚀  
