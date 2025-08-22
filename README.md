@@ -4,7 +4,7 @@
 
 💻 A passionate **Software Developer** from India  
 🎯 I do crafting **modern web apps** and exploring tech stacks 🚀  
-🛠️ Tech Stack: `HTML` `CSS` `JavaScript` `React.js⚛` `Java` `GO` `Angular` 
+🛠️ Tech Stack: `HTML` `CSS` `JavaScript` `React.js⚛` `Java` `GO` `Angular` `Node.js` `Express.js` `Python`
 🧰 Tools & Libraries: `TailwindCSS` 🌬️ `Bootstrap` 🎀 `Three.js` 🌐 `Framer Motion` 🎞️ `GSAP` `SpringBoot` 🌀  
 🖌️ Design & Dev Tools: `Figma` 🎨 `Adobe XD` 🧑‍🎨 `Git` 🔧 `GitHub` 🐙 `VS Code` 📟 `NeoVim`  
 🌱 Currently learning: Backend & Full Stack   
