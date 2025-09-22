@@ -35,10 +35,10 @@
 
 | Year | Milestone |
 |------|-----------|
-| **2023** | Started B.Tech CSE @ Centurion University (CGPA 8.2) |
-| **2024** | Learned HTML, CSS, JS → React, Node.js, Java & Spring Boot |
+| **2023** | Started B.Tech CSE @ Centurion University (CGPA 8.58) |
+| **2024** | Learned HTML, CSS, JS → React, Node.js,MongoDB, MySQL, Java & Spring Boot |
 | **2024** | Built **UX-I** (3D Animated Website) & **Fun-Folio** (Pixel-Art Portfolio) |
-| **2025 (Now)** | Developing, exploring Generative AI |
+| **2025 (Now)** | Developing, Deploying & exploring Generative AI |
 | **2025 (Next)** | Preparing for campus placements, aiming for Big Tech 🏆 |
 
 ---
