@@ -11,7 +11,7 @@
 # 👾 About Me  
 
 💻  **Software Developer** from India  
-🎯 Crafting **modern web apps , APIs** and exploring new tech stacks 🚀  
+🎯 Crafting **modern web apps , APIs, services** and exploring new tech stacks 🚀  
 🌱 Currently learning **Backend & Full Stack**  
 🤝 Open to **collabs, cool projects & creative ideas**
 
