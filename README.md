@@ -1,9 +1,13 @@
-<!-- Animated Typing Intro -->
+<!-- Animated Typing Intro 
 <div align="center">
   
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=180&section=header&text=Hey!+I'm+Lelien+👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </h1>
+</div>  -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=200&size=37&pause=1000&center=true&vCenter=true&width=720&height=200&lines=Welcome+To+My+CodeSpace+!....+;Hello%2C+I+am+Lelien+Panda+%F0%9F%91%8B%F0%9F%8F%BB!....;I+am+Full+Stack+Web+Developer+%F0%9F%8C%90;Aspiring+AI+%26+DevOps+Expert;Explore+My+Projects+Here+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+!....." alt="Typing SVG" />
 </div>
 
 
