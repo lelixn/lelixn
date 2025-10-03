@@ -31,15 +31,45 @@
 
 ---
 
-## 🗺️ My Journey Timeline  
+## 🗺️ My Timeline  
 
-| Year | Milestone |
-|------|-----------|
-| **2023** | Started B.Tech CSE @ Centurion University (CGPA 8.58) |
-| **2024** | Learned HTML, CSS, JS → React, Node.js,MongoDB, MySQL, Java & Spring Boot |
-| **2024** | Built **UX-I** (3D Animated Website) & **Fun-Folio** (Pixel-Art Portfolio) |
-| **2025 (Now)** | Developing, Deploying & exploring Generative AI |
-| **2025 (Next)** | Preparing for campus placements, aiming for Big Tech 🏆 |
+<table align="center">
+  <tr>
+    <!-- First GIF + Soft Skills -->
+    <td align="center" width="33%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ6emFkZ29oczU1MHVhbG03MHBndDYzOWRpNm0zcGg2c2d2N2U5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="300" alt="Teamwork GIF"/>
+      <br/><br/>
+      <h3><strong>⌨ Software Development</strong></h3> 
+      <ul align="left">
+         <li>Idea to Source Code</li>
+         <li>Debugging & optimization</li>
+         <li>Version control (e.g., Git)</li>
+      </ul>
+      <br></br>
+    </td> 
+     <td align="center" width="33%">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDQ1MHRsY3Rjd2ZkOWpwOWthcGxoOHRrZnlmY2Judzk4b2hpZnJsdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gRl82JKtOdzDr3m43F/giphy.gif" width="300" alt="Teamwork GIF"/>
+       <br/><br/>
+      <h3><strong>🧠 Problem Solving</strong></h3> 
+      <ul align="left">
+         <li>Analytical and critical thinking</li>
+        <li>Breaking down complex issues</li>
+        <li>Creative solution generation</li>
+      </ul>
+    </td>
+     <td align="center" width="33%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBjMmsxNG1nd3Z3OTdiZGRyaXk4eDI1bWk5cXNvaHRyYWV4N2s2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YlnvMD9xkDrCu0cdip/giphy.gif" width="250" alt="Teamwork GIF"/>
+      <br/><br/>
+      <h3><strong>🤝 Collaboration & Teamwork</strong></h3> 
+      <ul align="left">
+        <li>Active listening & clear communication</li>
+        <li>Thriving in group projects</li>
+        <li>Helping peers grow together</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -54,12 +84,9 @@
 ## 📊 GitHub Stats  
 <div align="center">
 
-![Lelien's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelixn&show_icons=true&theme=radical)  
+![Lelien's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelixn&show_icons=true&theme=radical) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelixn&layout=compact&theme=radical) 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=lelixn&theme=nightowl&hide_border=false)
-
-
-
 
 </div>
 
