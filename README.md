@@ -77,9 +77,9 @@
 
 ---
 
-## 🚀 Featured Projects  
+<!--## 🚀 Featured Projects 
 
-<!-- [![BudgetView](https://img.shields.io/badge/BudgetView-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://budget-view-phi.vercel.app/dashboard)  
+ [![BudgetView](https://img.shields.io/badge/BudgetView-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://budget-view-phi.vercel.app/dashboard)  
 [![Cursed Pixels](https://img.shields.io/badge/Cursed%20Pixels-9C27B0?style=for-the-badge&logo=vercel&logoColor=white)](https://paintox.vercel.app/)  
 [![WRIT{•"•}](https://img.shields.io/badge/WRIT%7B%E2%80%A2%22%E2%80%A2%7D-FF4081?style=for-the-badge&logo=vercel&logoColor=white)](https://writos.vercel.app/) -->
 
@@ -89,14 +89,14 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/lelixn/BudgetView" target="_blank">
-        <img src="" width="100%" alt="BudgetView Thumbnail"/>
+        <img width="1897" height="1074" alt="image" src="https://github.com/user-attachments/assets/68bb35a1-aa03-4c63-bda8-e4535e2f663d" />
       </a>
       <h3>💸 BudgetView</h3>
       <p>Track, manage, and visualize your budgets effortlessly with an elegant UI and smart analytics.</p>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/lelixn/sticky_toons" target="_blank">
-        <img src="https://github.com/lelixn/sticky_toons/raw/main/preview.png" width="100%" alt="Sticky Toons Thumbnail"/>
+       <img width="1919" height="924" alt="image" src="https://github.com/user-attachments/assets/3dbeb752-3eaf-48f3-8032-101613746440" />
       </a>
       <h3>🎨 Sticky Toons</h3>
       <p>A fun and creative digital note board featuring animated sticky doodles and vibrant toons.</p>
@@ -105,14 +105,14 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/lelixn/CANVAS" target="_blank">
-        <img src="https://github.com/lelixn/CANVAS/raw/main/preview.png" width="100%" alt="Canvas Thumbnail"/>
+        <img width="1916" height="926" alt="image" src="https://github.com/user-attachments/assets/bb26e7b9-df64-4517-9835-da1f924f337f" />
       </a>
       <h3>🖌️ CANVAS</h3>
       <p>An interactive drawing web app where creativity meets code — paint, animate, and share instantly.</p>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/lelixn/PixelVault" target="_blank">
-        <img src="https://raw.githubusercontent.com/lelixn/lelixn/main/assets/pixel-vault-preview.png" width="100%" alt="Pixel Vault Thumbnail"/>
+        <img width="1586" height="706" alt="Screenshot 2025-10-06 232815" src="https://github.com/user-attachments/assets/c5a9ff0e-3854-45d8-b3db-e2ed810c50ba" />
       </a>
       <h3>🎮 Pixel Vault</h3>
       <p>Discover your gaming genre — from action to strategy — with a neon-styled interactive UI.</p>
