@@ -38,7 +38,7 @@
 
 ---
 
-## 🗺️ My Timeline  
+## 🗺️ My features
 
 <table align="center">
   <tr>
