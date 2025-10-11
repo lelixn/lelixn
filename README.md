@@ -38,7 +38,7 @@
 
 ---
 
-## 🗺️ My features
+## 🗺️Stats
 
 <table align="center">
   <tr>
