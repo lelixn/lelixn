@@ -1,15 +1,3 @@
-<!-- Animated Typing Intro 
-<div align="center">
-  
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:FF00FF&height=180&section=header&text=Hey!+I'm+Lelien+👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</h1>
-</div>  
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=200&size=37&pause=1000&center=true&vCenter=true&width=720&height=200&lines=Welcome+To+My+CodeSpace+!....+;Hello%2C+I+am+Lelien+Panda+%F0%9F%91%8B%F0%9F%8F%BB!....;I+am+Full+Stack+Web+Developer+%F0%9F%8C%90;Aspiring+AI+%26+DevOps+Expert;Explore+My+Projects+Here+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+!....." alt="Typing SVG" />
-</div> -->
-
 <div align="center">
   <img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/4b071692-02c1-4e94-bb97-377af95939e0" />
 </div>
@@ -17,10 +5,10 @@
 
 # 👾 About Me   
 
-💻  **Software Developer** from India  
-🎯 Crafting **modern web apps , APIs, services** and exploring new tech stacks 🚀  
-🌱 Currently learning **Backend & Full Stack**  
-🤝 Open to **collabs, cool projects & creative ideas**
+💻 Creative Software Developer crafting next-gen web experiences, intelligent systems, and seamless APIs.
+🔬 Experienced in designing scalable architectures, efficient APIs, and dynamic web solutions.
+🚀 Always pushing boundaries in Full Stack, Java, and AI-driven development.
+🤝 Open to collaborations, open-source projects, and futuristic ideas that make an impact.
 
 ---
 
