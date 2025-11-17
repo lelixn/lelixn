@@ -5,9 +5,9 @@
 
 # 👾 About Me   
 
-💻 Creative Software Developer crafting next-gen web experiences, intelligent systems, and seamless APIs.
-🔬 Experienced in designing scalable architectures, efficient APIs, and dynamic web solutions.
-🚀 Always pushing boundaries in Full Stack, Java, and AI-driven development.
+💻 Creative Software Developer crafting next-gen web experiences, intelligent systems, and seamless APIs. <br>
+🔬 Experienced in designing scalable architectures, efficient APIs, and dynamic web solutions. <br>
+🚀 Always pushing boundaries in Full Stack, Java, and AI-driven development.<br>
 🤝 Open to collaborations, open-source projects, and futuristic ideas that make an impact.
 
 ---
@@ -139,6 +139,10 @@
   <a href="mailto:lelinpanda35@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/lelixn"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://dribbble.com/lelixn"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+  <a href="https://twitter.com/lelixn">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
 </p>
 
 ---
