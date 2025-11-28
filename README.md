@@ -5,16 +5,21 @@
 
 # 👾 About Me   
 
-💻 Creative Software Developer crafting next-gen web experiences, intelligent systems, and seamless APIs. <br>
-🔬 Experienced in designing scalable architectures, efficient APIs, and dynamic web solutions. <br>
-🚀 Always pushing boundaries in Full Stack, Java, and AI-driven development.<br>
-🤝 Open to collaborations, open-source projects, and futuristic ideas that make an impact.
+• Full Stack Developer skilled in Java, Spring Boot, React.js, and modern UI animations (GSAP, Three.js, Framer Motion).
+
+• Experienced in building scalable APIs, caching layers, and optimized backends, along with real-world apps like ERPs, 3D sites, and developer tools.
+
+• Worked with AI/ML fundamentals, neural networks, and automation workflows through hands-on projects and experimentation.
+
+• Exploring AWS Cloud, DevOps (CI/CD, Docker, pipelines, deployments), and system optimization to build production-ready applications.
+
+• Strong foundation in DSA, DBMS, OS, CN, and open to internships, collaborations.
 
 ---
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,java,go,spring,python,kotlin,tailwind,threejs,neovim,mysql" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,java,go,spring,python,kotlin,tailwind,threejs,neovim,mysql,flask,django" />
 </p>
 
 ---
@@ -67,12 +72,6 @@
 
 
 ---
-
-<!--## 🚀 Featured Projects 
-
- [![BudgetView](https://img.shields.io/badge/BudgetView-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://budget-view-phi.vercel.app/dashboard)  
-[![Cursed Pixels](https://img.shields.io/badge/Cursed%20Pixels-9C27B0?style=for-the-badge&logo=vercel&logoColor=white)](https://paintox.vercel.app/)  
-[![WRIT{•"•}](https://img.shields.io/badge/WRIT%7B%E2%80%A2%22%E2%80%A2%7D-FF4081?style=for-the-badge&logo=vercel&logoColor=white)](https://writos.vercel.app/) -->
 
 ## 🚀 Featured Projects  
 
