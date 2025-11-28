@@ -5,15 +5,11 @@
 
 # 👾 About Me   
 
-• Full Stack Developer skilled in Java, Spring Boot, React.js, and modern UI animations (GSAP, Three.js, Framer Motion).
-
-• Experienced in building scalable APIs, caching layers, and optimized backends, along with real-world apps like ERPs, 3D sites, and developer tools.
-
-• Worked with AI/ML fundamentals, neural networks, and automation workflows through hands-on projects and experimentation.
-
-• Exploring AWS Cloud, DevOps (CI/CD, Docker, pipelines, deployments), and system optimization to build production-ready applications.
-
-• Strong foundation in DSA, DBMS, OS, CN, and open to internships, collaborations.
+💻 Full Stack Developer skilled in Java, Spring Boot, React.js, and modern frontend animation tools (GSAP, Three.js, Framer Motion).
+⚡ Experienced in building scalable APIs, caching layers, and optimized backends, powering ERPs, 3D websites, and developer tools.
+🤖 Hands-on with AI/ML fundamentals, neural networks, and building automation-focused utilities.
+☁️ Exploring AWS Cloud & DevOps (CI/CD, Docker, pipelines, deployments) to deliver production-ready applications.
+📚 Strong in DSA, DBMS, OS, CN, and open to internships, collaborations.
 
 ---
 
