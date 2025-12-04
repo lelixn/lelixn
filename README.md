@@ -15,9 +15,8 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,java,go,spring,python,kotlin,docker,threejs,neovim,mysql,flask,django,ollama,Deno" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,java,go,spring,python,kotlin,docker,threejs,neovim,mysql,flask,django"/>
 </p>
-
 ---
 
 ## 📚 Certifications  
