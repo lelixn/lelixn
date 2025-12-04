@@ -17,7 +17,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,java,go,spring,python,kotlin,docker,threejs,neovim,mysql,flask,django"/>
 </p>
----
 
 ## 📚 Certifications  
 ![HackerRank SWE Intern](https://img.shields.io/badge/HackerRank-Software%20Engineer%20Intern-green?style=for-the-badge&logo=hackerrank)
