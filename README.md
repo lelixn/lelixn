@@ -109,7 +109,6 @@
 ## 📊 GitHub Stats  
 [![GitHub followers](https://img.shields.io/github/followers/lelixn?label=Follow&style=social)](https://github.com/lelixn?tab=followers)
 <div align="center">
-
 ![Lelien's GitHub stats](https://github-readme-stats.vercel.app/api?username=lelixn&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lelixn&layout=compact&theme=radical) 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=lelixn&theme=nightowl&hide_border=false)
