@@ -9,7 +9,7 @@
 ⚡ Building scalable APIs, caching layers,optimized backends, 3D websites, and developer tools.<br>
 🤖 AI/ML fundamentals, neural networks,Deep Learning and building automation-focused utilities.<br>
 ☁️ Exploring AWS Cloud & DevOps (CI/CD, Docker, pipelines, deployments) to deliver production-ready applications.<br>
-📚 DSA, DBMS, OS, CN, and open to internships, collaborations.
+📚 DSA, DBMS, OS, CN, and open to internships, and freelancing.
 
 ---
 
@@ -29,7 +29,6 @@
 
 <table align="center">
   <tr>
-    <!-- First GIF + Soft Skills -->
     <td align="center" width="33%">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJ6emFkZ29oczU1MHVhbG03MHBndDYzOWRpNm0zcGg2c2d2N2U5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pbIavlMZE7TkcVriMM/giphy.gif" width="300" alt="Teamwork GIF"/>
       <br/><br/>
