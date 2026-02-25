@@ -8,7 +8,7 @@
 💻 Full Stack Developer skilled in Java, Spring Boot, React.js, UI/UX and modern frontend animation tools (GSAP, Three.js).<br>
 ⚡ Building scalable APIs, caching layers,optimized backends, 3D websites, and developing tools.<br>
 🤖 AI/ML fundamentals, neural networks,Deep Learning and building automation-focused utilities.<br>
-☁️ Exploring AWS Cloud , DevOps (CI/CD, Docker, pipelines, deployments) & Linux(Ubuntu,Mint) to deliver production-ready applications.<br>
+☁️ Exploring DevOps (CI/CD, Docker, pipelines, deployments) to deliver production-ready applications.<br>
 📚 DSA, DBMS, OS, CN, and open to internships, and freelancing.
 
 ---
