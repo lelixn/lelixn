@@ -15,7 +15,7 @@ developer tools, and AI-powered products.
 
 - **NOVA** — AI Browser Extension for Developers
 - **BuildPilot** — Cross-platform CLI Package Manager
-- **Navigate** — Modern Navigation Android App
+- **RideOS** — Modern Navigation Android App
 - **DevMind AI** — AI Coding Assistant
 
 ---
