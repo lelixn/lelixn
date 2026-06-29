@@ -41,20 +41,6 @@ developer tools, and AI-powered products.
 
 ---
 
-## 🌟 Featured Projects
-
-### 💸 BudgetView
-> Personal Finance Dashboard built using **Spring Boot, React & MySQL**
-
-### 🎨 Sticky Toons
-> Interactive digital whiteboard with animated sticky notes
-
-### 🖌️ CANVAS
-> Lightweight HTML5 drawing application with modern UI
-
-### 🎮 Pixel Vault
-> Gaming discovery platform with immersive frontend experience
-
 ---
 
 ## 📈 GitHub
