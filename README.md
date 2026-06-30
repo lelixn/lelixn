@@ -1,7 +1,7 @@
 # Hey, I'm Lelien Panda 👾
 
-```java
-Full Stack Developer building backend systems,
+```
+Java Full Stack Developer building backend systems,
 developer tools, and AI-powered products.
 ```
 
