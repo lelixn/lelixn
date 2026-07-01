@@ -43,12 +43,7 @@ developer tools, and AI-powered products.
 
 ---
 
-## 📈 GitHub
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lelixn&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lelixn&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ---
 
