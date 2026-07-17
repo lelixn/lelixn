@@ -41,8 +41,17 @@ developer tools, and AI-powered products.
 
 ---
 
+GitHub Stats
 
+<p align="center">
+<img height="165" src="https://streak-stats.demolab.com?user=lelixn&theme=github-dark&hide_border=true"/>
+</p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lelixn&theme=github-dark&hide_border=true"/>
+</p>
+
+---
 
 ## 🤝 Connect
 
