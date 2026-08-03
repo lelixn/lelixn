@@ -85,7 +85,7 @@ Angular • Spring Boot • MySQL
 - REST APIs
 - Approval Workflow
 
-🔗 **[Repository](https://github.com/lelixn/ResourceFlow)**
+🔗 **[Repository](https://github.com/lelixn/Employee-Resource-Management-System)**
 
 </td>
 
@@ -127,7 +127,7 @@ React • GitHub REST API
 - API Integration
 - Dashboard UI
 
-🔗 **[Repository](https://github.com/lelixn/GitScope)**
+🔗 **[Repository](https://github.com/lelixn/github-user-activity)**
 
 </td>
 
