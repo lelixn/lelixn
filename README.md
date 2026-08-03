@@ -1,8 +1,8 @@
 # Hey, I'm Lelien Panda 👾
 
 ```
-Java Full Stack Developer building backend systems,
-developer tools, and AI-powered products.
+Full Stack Engineer building modern web and mobile applications.
+Specializing in React, React Native, Spring Boot, Node.js and TypeScript.
 ```
 
 > 🎓 B.Tech CSE (2023–2027)  
@@ -11,37 +11,130 @@ developer tools, and AI-powered products.
 
 ---
 
-## 🚀 Currently Building
+## 💻 Core Technologies
 
-- **NOVA** — AI Browser Extension for Developers
-- **BuildPilot** — Cross-platform CLI Package Manager
-- **RideOS** — Modern Navigation Android App
-- **DevMind AI** — AI Coding Assistant
+<table>
+<tr>
+
+<td valign="top" width="25%">
+
+### Frontend
+- React
+- React Native
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+</td>
+
+<td valign="top" width="25%">
+
+### Backend
+- Spring Boot
+- Node.js
+- Express.js
+- REST APIs
+- JWT
+
+</td>
+
+<td valign="top" width="25%">
+
+### Database
+- MySQL
+- PostgreSQL
+- MongoDB
+
+</td>
+
+<td valign="top" width="25%">
+
+### DevOps
+- Docker
+- Linux
+- Git
+- Vercel
+- Render
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 💻 Tech Stack
+## ⭐ Featured Projects
 
-<p>
+<table>
+<tr>
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<td width="33%" valign="top">
 
-</p>
+### 📦 ResourceFlow
+
+Enterprise Resource Management Platform
+
+**Tech Stack**
+
+Angular • Spring Boot • MySQL
+
+**Highlights**
+
+- Role-Based Authentication
+- Resource Allocation
+- REST APIs
+- Approval Workflow
+
+🔗 **[Repository](https://github.com/lelixn/ResourceFlow)**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📱 TinyVault
+
+Secure Mobile Vault
+
+**Tech Stack**
+
+React Native • TypeScript
+
+**Highlights**
+
+- Cross-platform App
+- Secure Local Storage
+- Responsive UI
+- Offline Support
+
+🔗 **[Repository](https://github.com/lelixn/tinyVault)**
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📊 GitScope
+
+GitHub Analytics Dashboard
+
+**Tech Stack**
+
+React • GitHub REST API
+
+**Highlights**
+
+- Repository Insights
+- Contribution Analytics
+- API Integration
+- Dashboard UI
+
+🔗 **[Repository](https://github.com/lelixn/GitScope)**
+
+</td>
+
+</tr>
+</table>
 
 ---
-
-
 
 ## 🤝 Connect
 
