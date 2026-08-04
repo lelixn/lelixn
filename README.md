@@ -164,6 +164,11 @@ React • GitHub REST API
 
 ---
 
+• Read my tech blogs at - https://hashnode.com/@lelixn
+
+
+---
+
 ```text
 "Building products people actually use."
 ```
