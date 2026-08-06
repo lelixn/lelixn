@@ -138,31 +138,11 @@ React • GitHub REST API
 
 ## 🤝 Connect
 
-<p>
+- 🌐 Portfolio → https://floato-orpin.vercel.app/
+- 💼 LinkedIn → https://linkedin.com/in/lelien-panda/
+- 📫 Email → lelinpanda35@gmail.com
+- 💻 GitHub → https://github.com/lelixn
 
-<a href="https://github.com/lelixn">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/lelien-panda/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:lelinpanda35@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://dribbble.com/lelixn">
-<img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/lelinofc_">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
-</p>
-
----
 
 • Read my tech blogs at - https://hashnode.com/@lelixn
 
