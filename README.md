@@ -138,7 +138,7 @@ React • GitHub REST API
 
 ## 🤝 Connect
 
-- 🌐 Portfolio → https://floato-orpin.vercel.app/
+- 🌐 Portfolio → https://lelixn-topaz.vercel.app/
 - 💼 LinkedIn → https://linkedin.com/in/lelien-panda/
 - 📫 Email → lelinpanda35@gmail.com
 - 💻 GitHub → https://github.com/lelixn
