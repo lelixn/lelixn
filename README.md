@@ -1,154 +1,90 @@
-# Hey, I'm Lelien Panda 👾
+# `~ $ whoami`
 
+```bash
+lelien panda
+full stack developer · software engineer · builder
+
+> building scalable web & mobile applications
+> react • react native • spring boot • node.js
+
+location : bhubaneswar, odisha, india
+website  : https://lelixn-topaz.vercel.app
+github   : https://github.com/lelixn
 ```
-Full Stack Engineer building modern web and mobile applications.
-Specializing in React, React Native, Spring Boot, Node.js and TypeScript.
-```
-
-> 🎓 B.Tech CSE (2023–2027)  
-> 📍 India  
-> 💼 Open to Software Engineering, Backend & Full Stack Internship Opportunities
 
 ---
 
-## 💻 Core Technologies
+### `~ $ ls -la ~/projects`
 
-<table>
-<tr>
-
-<td valign="top" width="25%">
-
-### Frontend
-- React
-- React Native
-- Next.js
-- TypeScript
-- Tailwind CSS
-
-</td>
-
-<td valign="top" width="25%">
-
-### Backend
-- Spring Boot
-- Node.js
-- Express.js
-- REST APIs
-- JWT
-
-</td>
-
-<td valign="top" width="25%">
-
-### Database
-- MySQL
-- PostgreSQL
-- MongoDB
-
-</td>
-
-<td valign="top" width="25%">
-
-### DevOps
-- Docker
-- Linux
-- Git
-- Vercel
-- Render
-
-</td>
-
-</tr>
-</table>
+| Repository | Description | Stars |
+|:---|:---|:---:|
+| [Employee-Resource-Management-System](https://github.com/lelixn/Employee-Resource-Management-System) | Employee management system | ★ 0 |
+| [DevForge](https://github.com/lelixn/DevForge) | Developer-focused project | ★ 0 |
+| [floating-github-folio](https://github.com/lelixn/floating-github-folio) | Interactive GitHub portfolio | ★ 0 |
+| [github-user-activity](https://github.com/lelixn/github-user-activity) | GitHub activity tracker | ★ 0 |
+| [sloth](https://github.com/lelixn/sloth) | VS Code extension for automated Git workflows | ★ 0 |
 
 ---
 
-## ⭐ Featured Projects
-
-<table>
-<tr>
-
-<td width="33%" valign="top">
-
-### 📦 ResourceFlow
-
-Enterprise Resource Management Platform
-
-**Tech Stack**
-
-Angular • Spring Boot • MySQL
-
-**Highlights**
-
-- Role-Based Authentication
-- Resource Allocation
-- REST APIs
-- Approval Workflow
-
-🔗 **[Repository](https://github.com/lelixn/Employee-Resource-Management-System)**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📱 TinyVault
-
-Secure Mobile Vault
-
-**Tech Stack**
-
-React Native • TypeScript
-
-**Highlights**
-
-- Cross-platform App
-- Secure Local Storage
-- Responsive UI
-- Offline Support
-
-🔗 **[Repository](https://github.com/lelixn/tinyVault)**
-
-</td>
-
-<td width="33%" valign="top">
-
-### 📊 GitScope
-
-GitHub Analytics Dashboard
-
-**Tech Stack**
-
-React • GitHub REST API
-
-**Highlights**
-
-- Repository Insights
-- Contribution Analytics
-- API Integration
-- Dashboard UI
-
-🔗 **[Repository](https://github.com/lelixn/github-user-activity)**
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🤝 Connect
-
-- 🌐 Portfolio → https://lelixn-topaz.vercel.app/
-- 💼 LinkedIn → https://linkedin.com/in/lelien-panda/
-- 📫 Email → lelinpanda35@gmail.com
-- 💻 GitHub → https://github.com/lelixn
-
-
-• Read my tech blogs at - https://hashnode.com/@lelixn
-
-
----
+### `~ $ cat ~/stack.txt`
 
 ```text
-"Building products people actually use."
+PYTHON       ████████████████████  59%
+TYPESCRIPT   ████████              24%
+JAVA         ██                     6%
+CSS          █                      3%
+JUPYTER      █                      3%
+HTML         █                      2%
 ```
+
+---
+
+### `~ $ git log --pretty=format:"%h %ad %s" --date=short -5`
+
+```text
+2026-08-16  DevForge
+2026-08-08  sloth
+2026-08-03  floating-github-folio
+2026-07-09  tinyVault
+2025-11-18  github-user-activity
+```
+
+---
+
+### `~ $ neofetch`
+
+```text
+       /\          lelien@github
+      /  \         ----------------
+     / /\ \        OS        : Developer
+    / ____ \       ROLE      : Full Stack Developer
+   /_/    \_\      LOCATION  : Bhubaneswar, India
+
+                   REPOSITORIES : 46
+                   STARS        : 6
+                   FOLLOWERS    : 2
+                   CONTRIBUTIONS: 261 / year
+
+                   EDITOR       : VS Code
+                   LANGUAGES   : Python, TypeScript, Java
+                   FOCUS       : Web & Mobile Development
+```
+
+---
+
+### `~ $ ./connect.sh`
+
+```bash
+github    → https://github.com/lelixn
+website   → https://lelixn-topaz.vercel.app
+twitter   → https://x.com/lelinofc_
+```
+
+```bash
+$ echo "building. breaking. learning. repeating."
+building. breaking. learning. repeating.
+
+$ _
+```
+
+<sub>crafted with code, curiosity & caffeine.</sub>
